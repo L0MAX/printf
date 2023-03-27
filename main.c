@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * L0MAX = Group
+ *
  * Return: Always 0
  */
 int main(void)
