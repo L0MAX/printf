@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * L0MAX = Group
  * Return: Always 0
  */
 int main(void)
@@ -41,4 +41,4 @@ int main(void)
     _printf("Unknown:[%r]\n");
     printf("Unknown:[%r]\n");
     return (0);
-}
+}//Donatus Ankah//
